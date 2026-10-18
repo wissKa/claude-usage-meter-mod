@@ -1,0 +1,6 @@
+{
+  "name": "claude-usage-meter-mod",
+  "description": "usage-meter: live Claude Code context, cost and plan-limit meter, with a per-project token view",
+  "owner": { "name": "Wissem Kharrat" },
+  "plugins": [{ "name": "usage-meter", "source": "./" }]
+}

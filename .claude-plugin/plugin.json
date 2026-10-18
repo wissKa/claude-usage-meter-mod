@@ -1,0 +1,6 @@
+{
+  "name": "usage-meter",
+  "version": "0.2.0",
+  "description": "Shows live session usage (context, cost, plan limits with reset countdowns) above the prompt, and a /usage-meter command with a per-project token view",
+  "author": { "name": "Wissem Kharrat" }
+}
